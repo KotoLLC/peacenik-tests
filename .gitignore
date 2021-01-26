@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+cookies.txt
 # C extensions
 *.so
 
@@ -16,6 +16,7 @@ eggs/
 .eggs/
 lib/
 lib64/
+.vscode/
 parts/
 sdist/
 var/
